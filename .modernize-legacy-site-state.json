@@ -3,7 +3,7 @@
   "version": "1.0",
   "sourceUrl": "https://salon-krasoty-heaven.clients.site/",
   "projectPath": "/Users/aizat/Documents/Projects/RestoredOldSites/nebesa-beauty-kazan",
-  "phase": "NEEDS_REVISION",
+  "phase": "PUBLISHED",
   "source": {
     "language": "ru",
     "businessName": "Салон красоты Heaven / Небеса",
@@ -31,5 +31,18 @@
       "nonRootBase": "/nebesa-beauty-kazan/ passed"
     }
   },
-  "publication": {"approved":false}
+  "publication": {
+    "approved": true,
+    "repositoryUrl": "https://github.com/ComPanS/nebesa-beauty-kazan",
+    "pagesUrl": "https://compans.github.io/nebesa-beauty-kazan/",
+    "workflowRunUrl": "https://github.com/ComPanS/nebesa-beauty-kazan/actions/runs/34615386765",
+    "liveVerified": true
+  },
+  "postPublication": {
+    "screenshots": [
+      "outreach/screenshots/nebesa-home-desktop.png",
+      "outreach/screenshots/nebesa-home-mobile.png"
+    ],
+    "clientMessagePresented": false
+  }
 }
